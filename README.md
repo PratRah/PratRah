@@ -1,16 +1,26 @@
-## Hi there 👋
+## ## Hey, I'm Jane👋
 
-<!--
-**PratRah/PratRah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Currently learning:
+- Python (beginner to intermediate)
+- Web Development (HTML, CSS, JavaScript)
+- Game Development with Pygame
+- Flask (for web apps)
 
-Here are some ideas to get you started:
+🚀 Goals:
+- Build small games and websites
+- Participate in hackathons
+- Become confident in full-stack development in 2 months
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tools I’m using:
+- Python, VS Code, Git, GitHub
+- Planning to learn Flask, JavaScript, and APIs
+
+📚 Current focus: Learning and building real-world projects!
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PratRah&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PratRah&layout=compact&theme=tokyonight)
+
+
